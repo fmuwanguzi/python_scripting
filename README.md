@@ -1,2 +1,2 @@
 # python_scripting
-scripting using pythong
+scripting using python
